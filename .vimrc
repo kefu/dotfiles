@@ -15,3 +15,4 @@ set incsearch
 set showmatch
 set smartindent
 set whichwrap=b,s,h,l,<,>,[,]
+set hlsearch
